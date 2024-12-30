@@ -1,0 +1,2 @@
+# BlazorCRM
+Blazor CRM App
